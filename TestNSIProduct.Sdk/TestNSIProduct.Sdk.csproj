@@ -6,7 +6,7 @@
         <Nullable>enable</Nullable>
         
         <PackageId>TestNSIProduct.Sdk</PackageId>
-        <version>0.0.1</version>
+        <version>0.0.2</version>
         <Authors>Dz0nZ1</Authors>
         <Company>NSI</Company>
         <PackageDescription>SDK for TestNSIProduct</PackageDescription>

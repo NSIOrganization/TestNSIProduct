@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNSIProductSdk", "TestNSIProductSdk\TestNSIProductSdk.csproj", "{205A35D5-EC52-4BBA-B1DB-3290A00C6914}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNSIProduct.Sdk", "TestNSIProduct.Sdk\TestNSIProduct.Sdk.csproj", "{205A35D5-EC52-4BBA-B1DB-3290A00C6914}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

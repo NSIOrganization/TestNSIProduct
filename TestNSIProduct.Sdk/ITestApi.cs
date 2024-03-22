@@ -1,7 +1,7 @@
 using Refit;
-using TestNSIProductSdk.Dto;
+using TestNSIProduct.Sdk.Dto;
 
-namespace TestNSIProductSdk;
+namespace TestNSIProduct.Sdk;
 
 public interface ITestApi
 {

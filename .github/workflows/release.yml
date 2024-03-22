@@ -17,9 +17,9 @@ jobs:
         run: dotnet test -c Release --no-build
       - name: Pack nugets
         run: |
-          cd ./TestNSIProduct.Sdk.Application
+          cd ./TestNSIProduct.Application
           dotnet pack -c Release -o out
       - name: List files in directory
-        run: ls ./TestNSIProduct.Sdk.Application/out
+        run: ls ./TestNSIProduct.Application/out
       - name: Push to NuGet
-        run: dotnet nuget push "./TestNSIProduct.Sdk.Application/out/*.nupkg" --api-key ${{secrets.nuget_api_key}} --source https://api.nuget.org/v3/index.json --skip-duplicate
+        run: dotnet nuget push "./TestNSIProduct.Application/out/*.nupkg" --api-key ${{secrets.nuget_api_key}} --source https://api.nuget.org/v3/index.json --skip-duplicate

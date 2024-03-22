@@ -11,8 +11,8 @@
         <Company>NSI</Company>
         <PackageDescription>SDK for TestNSIProduct</PackageDescription>
         <PackageReleaseNotes>
-            v.0.0.1
-            - Initial release
+            v.0.0.2
+            - New SDK client
         </PackageReleaseNotes>
         
         

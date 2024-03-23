@@ -4,18 +4,6 @@
         <TargetFramework>net8.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        
-        <PackageId>TestNSIProductSdk</PackageId>
-        <version>0.0.2</version>
-        <Authors>Dz0nZ1</Authors>
-        <Company>NSI</Company>
-        <PackageDescription>SDK for TestNSIProduct</PackageDescription>
-        <PackageReleaseNotes>
-            v.0.0.2
-            - New SDK client
-        </PackageReleaseNotes>
-        
-        
     </PropertyGroup>
 
     <ItemGroup>

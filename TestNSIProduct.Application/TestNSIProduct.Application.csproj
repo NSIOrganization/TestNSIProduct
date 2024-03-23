@@ -4,14 +4,14 @@
         <TargetFramework>net8.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <PackageId>TestNSIProduct.Sdk</PackageId>
-        <version>0.0.2</version>
+        <PackageId>TestNSIProduct.Application</PackageId>
+        <version>0.0.3</version>
         <Authors>Dz0nZ1</Authors>
         <Company>NSI</Company>
         <PackageDescription>SDK for TestNSIProduct</PackageDescription>
         <PackageReleaseNotes>
-            v.0.0.2
-            - New SDK client
+            v.0.0.3
+            - New Applicaiton SDK client
         </PackageReleaseNotes>
         
     </PropertyGroup>
